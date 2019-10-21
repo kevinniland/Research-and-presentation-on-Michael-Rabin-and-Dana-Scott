@@ -7,9 +7,9 @@ For their joint paper Finite Automata and Their Decision Problem
 
 
 ### Research/References
-Cormac's Links:
-http://www.cse.chalmers.se/~coquand/AUTOMATA/rs.pdf
-https://amturing.acm.org/pdf/RabinTuringTranscript.pdf
-https://amturing.acm.org/award_winners/scott_1193622.cfm
+**Cormac's Links**
+* [Finite Automata and Their Decision Problem paper](http://www.cse.chalmers.se/~coquand/AUTOMATA/rs.pdf)
+* [An interview with Michael Rabin](https://amturing.acm.org/pdf/RabinTuringTranscript.pdf)
+* [AM Turing Award winner Dana S. Scott](https://amturing.acm.org/award_winners/scott_1193622.cfm)
 
 Kevin's Links
