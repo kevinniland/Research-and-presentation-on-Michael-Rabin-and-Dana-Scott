@@ -1,10 +1,11 @@
 # Research Methods in Computing and IT Presentation
 
 ## Michael O. Rabin & Dana S. Scott
-For their joint paper Finite Automata and Their Decision Problem
+_For their joint paper Finite Automata and Their Decision Problem_
 
 [Google Slides link](https://docs.google.com/presentation/d/1BtM7tCxvdqJ3bj4t8l8zaUQd6WJ1NPKeSDeIeDeVk_M/edit?usp=sharing)
 
+***
 
 ### Research/References
 **Cormac's Links**
