@@ -17,3 +17,4 @@ _**Cormac's Links**_
 _**Kevin's Links**_
 * [Dana S. Scott - Google Scholar Citations](https://scholar.google.nl/citations?user=oaja5KYAAAAJ&hl=en)
 * [Nondeterministic finite automaton](https://en.wikipedia.org/wiki/Nondeterministic_finite_automaton)
+* [NFA Image](https://www.tutorialspoint.com/automata_theory/images/ndfa_graphical_representation.jpg)
