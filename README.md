@@ -14,3 +14,4 @@ _**Cormac's Links**_
 * [AM Turing Award winner Dana S. Scott](https://amturing.acm.org/award_winners/scott_1193622.cfm)
 
 _**Kevin's Links**_
+* [Dana S. Scott](https://scholar.google.nl/citations?user=oaja5KYAAAAJ&hl=en)
