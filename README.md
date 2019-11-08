@@ -14,7 +14,7 @@ _**General references/resources**_
 * [Finite Automata and Their Decision Problems](http://www.cse.chalmers.se/~coquand/AUTOMATA/rs.pdf) - `C.M`
 * [Nondeterministic finite automaton](https://en.wikipedia.org/wiki/Nondeterministic_finite_automaton) - `K.N`
 * [NFA Image](https://www.tutorialspoint.com/automata_theory/images/ndfa_graphical_representation.jpg) - `K.N`
-* [Finite-state machine](https://en.wikipedia.org/wiki/Finite-state_machine)
+* [Finite-state machine](https://en.wikipedia.org/wiki/Finite-state_machine) - `K.N`
 
 ***
 
