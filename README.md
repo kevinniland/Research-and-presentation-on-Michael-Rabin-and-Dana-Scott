@@ -1,4 +1,4 @@
-# Research Methods in Computing and IT Presentation
+# Research and presentation on Michael Rabin and Dana Scott
 
 ## Michael O. Rabin & Dana S. Scott
 _For their joint paper Finite Automata and Their Decision Problem_
