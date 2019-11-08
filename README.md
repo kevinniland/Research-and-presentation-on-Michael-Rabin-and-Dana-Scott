@@ -30,4 +30,4 @@ _**Dana S. Scott references/resources**_
 * [Dana S. Scott - A.M. Turing Award Laureate](https://amturing.acm.org/award_winners/scott_1193622.cfm) - `C.M`
 * [Dana S. Scott - Google Scholar Citations](https://scholar.google.nl/citations?user=oaja5KYAAAAJ&hl=en) - `K.N`
 * [A short interview with Dana Scott](https://scilogs.spektrum.de/hlf/an-short-interview-with-dana-scott/) - `K.N`
-* [Brief Biography of Dana S. Scott](http://fm.csl.sri.com/SSFT15/ScottBriefBio.pdf)
+* [Brief Biography of Dana S. Scott](http://fm.csl.sri.com/SSFT15/ScottBriefBio.pdf) - `K.N`
