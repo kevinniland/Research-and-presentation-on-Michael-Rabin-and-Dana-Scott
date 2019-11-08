@@ -16,6 +16,7 @@ _**General references/resources**_
 * [NFA Image](https://www.tutorialspoint.com/automata_theory/images/ndfa_graphical_representation.jpg) - `K.N`
 * [Finite-state machine](https://en.wikipedia.org/wiki/Finite-state_machine) - `K.N`
 * [Regular language](https://en.wikipedia.org/wiki/Regular_language) - `K.N`
+* [Regular expressions in Java](https://www.vogella.com/tutorials/JavaRegularExpressions/article.html)
 
 ***
 
