@@ -3,7 +3,7 @@
 ## Michael O. Rabin & Dana S. Scott
 _For their joint paper Finite Automata and Their Decision Problem_
 
-[Google Slides link](https://docs.google.com/presentation/d/1BtM7tCxvdqJ3bj4t8l8zaUQd6WJ1NPKeSDeIeDeVk_M/edit?usp=sharing)
+[Michael O. Rabin and Dana S. Scott presentation](https://docs.google.com/presentation/d/1BtM7tCxvdqJ3bj4t8l8zaUQd6WJ1NPKeSDeIeDeVk_M/edit?usp=sharing)
 
 #### Contributers: Cormac McHale (`C.M`) and Kevin Niland (`K.N`)
 
