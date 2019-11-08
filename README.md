@@ -15,6 +15,7 @@ _**General references/resources**_
 * [Nondeterministic finite automaton](https://en.wikipedia.org/wiki/Nondeterministic_finite_automaton) - `K.N`
 * [NFA Image](https://www.tutorialspoint.com/automata_theory/images/ndfa_graphical_representation.jpg) - `K.N`
 * [Finite-state machine](https://en.wikipedia.org/wiki/Finite-state_machine) - `K.N`
+* [Regular language](https://en.wikipedia.org/wiki/Regular_language) - `K.N`
 
 ***
 
