@@ -16,7 +16,7 @@ _**General references/resources**_
 * [NFA Image](https://www.tutorialspoint.com/automata_theory/images/ndfa_graphical_representation.jpg) - `K.N`
 * [Finite-state machine](https://en.wikipedia.org/wiki/Finite-state_machine) - `K.N`
 * [Regular language](https://en.wikipedia.org/wiki/Regular_language) - `K.N`
-* [Regular expressions in Java](https://www.vogella.com/tutorials/JavaRegularExpressions/article.html)
+* [Regular expressions in Java](https://www.vogella.com/tutorials/JavaRegularExpressions/article.html) - `K.N`
 
 ***
 
@@ -30,3 +30,4 @@ _**Dana S. Scott references/resources**_
 * [Dana S. Scott - A.M. Turing Award Laureate](https://amturing.acm.org/award_winners/scott_1193622.cfm) - `C.M`
 * [Dana S. Scott - Google Scholar Citations](https://scholar.google.nl/citations?user=oaja5KYAAAAJ&hl=en) - `K.N`
 * [A short interview with Dana Scott](https://scilogs.spektrum.de/hlf/an-short-interview-with-dana-scott/) - `K.N`
+* [Brief Biography of Dana S. Scott](http://fm.csl.sri.com/SSFT15/ScottBriefBio.pdf)
