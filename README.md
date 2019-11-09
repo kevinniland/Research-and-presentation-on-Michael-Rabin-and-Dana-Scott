@@ -23,6 +23,7 @@ _**General references/resources**_
 _**Michael O. Rabin references/resources**_
 * [Michael O. Rabin](https://en.wikipedia.org/wiki/Michael_O._Rabin) - `C.M`
 * [An Interview with Michael Rabin](https://amturing.acm.org/pdf/RabinTuringTranscript.pdf) - `C.M`
+* [Thomas J. Watson -  Thomas J. Watson Sr. Professor of Computer Science](https://en.wikipedia.org/wiki/Thomas_J._Watson)
 
 ***
 
