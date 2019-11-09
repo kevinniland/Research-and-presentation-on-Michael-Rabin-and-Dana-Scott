@@ -20,6 +20,7 @@ _**General references/resources**_
 * [Rabin-Karp algorithm](https://en.wikipedia.org/wiki/Rabin%E2%80%93Karp_algorithm) - `K.N`
 * [Richard M. Karp](https://en.wikipedia.org/wiki/Richard_M._Karp) - `K.N`
 * [Recursive language](https://en.wikipedia.org/wiki/Recursive_language) - `C.M`
+* [French Institute for Research in Computer Science and Automation](https://en.wikipedia.org/wiki/French_Institute_for_Research_in_Computer_Science_and_Automation) - `C.M`
 
 ***
 
