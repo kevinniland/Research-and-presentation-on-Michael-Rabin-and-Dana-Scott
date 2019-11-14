@@ -23,6 +23,7 @@ _**General references/resources**_
 * [French Institute for Research in Computer Science and Automation](https://en.wikipedia.org/wiki/French_Institute_for_Research_in_Computer_Science_and_Automation) - `C.M`
 * [Advantages/Disadvantages of NFA over DFA and vice versa](https://stackoverflow.com/questions/5964756/advantages-disadvantages-of-nfa-over-dfa-and-vice-versa) -`C.M`
 * [The Lattice of Flow Diagrams](https://www.researchgate.net/publication/238671920_The_lattice_of_flow_diagrams) - `K.N`
+* [John Lemmon](https://en.wikipedia.org/wiki/John_Lemmon)
 
 ***
 
