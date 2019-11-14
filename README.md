@@ -21,7 +21,8 @@ _**General references/resources**_
 * [Richard M. Karp](https://en.wikipedia.org/wiki/Richard_M._Karp) - `K.N`
 * [Recursive language](https://en.wikipedia.org/wiki/Recursive_language) - `C.M`
 * [French Institute for Research in Computer Science and Automation](https://en.wikipedia.org/wiki/French_Institute_for_Research_in_Computer_Science_and_Automation) - `C.M`
-* [Advantages of DFA's over NFA's](https://stackoverflow.com/questions/5964756/advantages-disadvantages-of-nfa-over-dfa-and-vice-versa) -`C.M`
+* [Advantages/Disadvantages of NFA over DFA and vice versa](https://stackoverflow.com/questions/5964756/advantages-disadvantages-of-nfa-over-dfa-and-vice-versa) -`C.M`
+* [The Lattice of Flow Diagrams](https://www.researchgate.net/publication/238671920_The_lattice_of_flow_diagrams) - `K.N`
 
 ***
 
